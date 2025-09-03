@@ -1,0 +1,32 @@
+Course Structure  
+Graph Essentials (Part - 1)
+Graph Advandced 
+80+ Programming Solution 
+
+Syllabus 
+
+Graph Essentials :  
+Representations 
+Breadth First Search 
+Depth First Search 
+Cycle Detection 
+Disjoint Set Union 
+Min Spanning Trees 
+Shortest Paths 
+Dijkstra's , Bellman Ford , FLoyd Wasrshall 
+
+
+Graph Advandced : 
+Flood Fill 
+Multi Source BFS 
+DFS Trees & Backedge 
+Articulation Points & Bridges 
+SCC 
+Trees 
+Euler Tour 
+LCA 
+Network Flow 
+
+
+# Just Curious thing i always wants to solve and post on linked in 
+How this graph algorithms is used in finding Shortest path in GMaps or any other maps services , Will find answer of this in this course and do detail finding of this and post on linkedin 
