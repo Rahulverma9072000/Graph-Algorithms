@@ -1,0 +1,42 @@
+Graph Data Structure : Network (Vertices Edge )
+Verices , Edges (Directional & BiDirectional )
+Edges can also have weights 
+ A -> B , B -> A can have different weights 
+
+ Weighted vs UnWeighted 
+ Directed vs Undirected 
+
+ Storing a Graph : 
+ Adjacency List : Make a list of neighbours  
+ Adjacency Matrix 
+ Edge List 
+ 2D Matrix (Implicit Graph)
+
+
+ Applications of Graph : 
+ Shortest Distance 
+ Social Network : LinkedIn , Instagram we can have graph so that we can give proper suggestions .. 
+ Shortest Cyclic Route : Route that minimises the total cost 
+ Dependency Graph : Resolving dependencies on server 
+ Routing Algorithms : Most optimum path to move data packets 
+ Computation Graphs : Deep Learning , Computation are done , by optimising graph like data structure 
+ Computer Vision : Image Segmentation , Flood Fill . 
+ Web Crawlers 
+ Physics & Chemistry : Molecules , Atom Structure 
+ Graph DataBases : used in recommendation engines , fraud detection 
+
+
+ Graph Key Terms : 
+
+ Types of Graphs : 
+ Weighed Graph -> Graphs whose edges or paths have values called weights . Edge values can represent weight/cost/length.
+ UnWeighted Graph -> There is no value or weight associated with the edge . By default , all the graphs are unweighted unless there is a value associated .
+ Directed Graph :  Edges are directed from one node to another . Example : flight routes , flight fares .
+
+
+ Storing a Graph 
+ 1) Adjacency Matrix 
+ 2) Adjacency List  
+
+
+
